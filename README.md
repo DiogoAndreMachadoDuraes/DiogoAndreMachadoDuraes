@@ -29,7 +29,25 @@ I am looking for challenges and opportunities that makes me feel on a continous 
 <summary><b>💻 Technologies</b></summary>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  Redux-Saga
+  Zustand
+  React Testing Library
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  Enzyme
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
 </p>
 
 
