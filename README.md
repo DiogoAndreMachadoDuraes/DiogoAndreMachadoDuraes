@@ -35,11 +35,16 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  Redux-Saga
-  Zustand
-  React Testing Library
+  <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://testing-library.com/img/octopus-128x128.png" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   Enzyme
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" style="margin-right: 14px; width: 40px;" alt=""/>
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
