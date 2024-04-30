@@ -36,7 +36,7 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" style="margin-right: 14px; width: 50px;" alt=""/>
+  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" style="margin-right: 14px; width: 80px;" alt=""/>
   <img src="https://testing-library.com/img/octopus-128x128.png" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://kaizhudda.com/static/media/enzyme.b1464b1c.png" style="margin-right: 14px; width: 40px;" alt=""/>
