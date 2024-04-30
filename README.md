@@ -36,7 +36,7 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://redux-saga.js.org//img/Redux-Saga-Logo-Portrait.png" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/HEAD/bear.jpg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://testing-library.com/img/octopus-128x128.png" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://kaizhudda.com/static/media/enzyme.b1464b1c.png" style="margin-right: 14px; width: 40px;" alt=""/>
@@ -47,10 +47,10 @@ I am looking for challenges and opportunities that makes me feel on a continous 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" style="margin-right: 14px; width: 40px;" alt=""/>
 </p>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" style="margin-right: 14px; width: 40px;" alt=""/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" style="margin-right: 14px; width: 40px;" alt=""/>
 </p>
