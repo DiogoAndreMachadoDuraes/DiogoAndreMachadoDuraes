@@ -1,5 +1,6 @@
 👨‍💻 MSc Computer Science | React | Frontend | IS Consultant
 
+
 🚀 About Me
 
 Hello, I'm Diogo Durães, IT Consultant at ITSector, passionate about building high-performing websites and micro-frontends using ReactJS and Azure DevOps for leading financial institutions. Over 2 years of experience, I played a key role in projects like M2030, IziBizi, P@Y.ME/eCommerce, and MSE. Skilled in managing projects using Scrum methodologies.
