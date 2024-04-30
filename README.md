@@ -21,7 +21,7 @@ Agile: SCRUM<br>
 I am looking for challenges and opportunities that makes me feel on a continous learning.
 
 <br>
-<a href="https://www.linkedin.com/in/diogo-duraes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>
+<a href="https://www.linkedin.com/in/diogo-duraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>
 <a href="mailto:diogo.machado.duraes@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt=""/></a>
 
 <br>
