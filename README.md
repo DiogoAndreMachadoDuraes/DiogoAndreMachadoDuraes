@@ -24,7 +24,21 @@ I am looking for challenges and opportunities that makes me feel on a continous 
 <a href="https://www.linkedin.com/in/diogo-duraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>
 <a href="mailto:diogo.machado.duraes@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt=""/></a>
 
-<br>
-💻 Technologies<br>
-![image](https://github.com/DiogoAndreMachadoDuraes/DiogoDuraes/assets/61517303/ddf43ceb-4c3c-4b85-ba9a-9968f8e686f5)
+<hr/>
 
+<summary><b>💻 Technologies</b></summary>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" style="margin-right: 14px; width: 40px;" alt=""/>
+</p>
+
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=DiogoAndreMachadoDuraes&theme=dark" alt="GitHub Streak" />
+</div>
+
+<div>
+  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api/top-langs/?username=DiogoAndreMachadoDuraes&hide_progress=true&langs_count=6&theme=dark"  alt=""/>
+  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=DiogoAndreMachadoDuraes&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs"  alt=""/>
+
+</div>
